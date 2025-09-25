@@ -35,7 +35,7 @@ The final deliverable includes:
 ---
 
 ## Group Members & Roles
-- *IT24102290 – [Sasmitha]* → Encoding Numerical and Class balancing  
+- *IT24102290 – [Sasmitha]* → Class balancing  
 - *IT24100020 – [Pooja]* → Encoding categorical variables  
 - *IT24104383 – [Vinod]* → Outlier removal  
 - *IT24100039 – [Chamodi]* → Feature engineering  
